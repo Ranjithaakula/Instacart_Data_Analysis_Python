@@ -4,7 +4,7 @@ The project focused on Instacart, an online grocery store that operates through 
 
 ### Data
 The data constituted of the following information
-# Orders
-# Customers
-# Products
-# Departments
+##### Orders
+##### Customers
+##### Products
+##### Departments
